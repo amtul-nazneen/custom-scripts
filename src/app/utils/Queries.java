@@ -3,7 +3,6 @@ package app.utils;
 public class Queries {
 	public static final String DATE_QUERY = "and year(tcp.cert_end_date) > 2021 ";
 	public static final String ACTIVE_TL_PROFILES = "select  tp.tlid as tlid from tl9000_profile tp, tl9000_cert_profile tcp where tcp.tlid=tp.tlid and tp.profile_status='active'";
-//	public static final String ACTIVE_TL_PROFILES = "select distinct tp.tlid as tlid from tl9000_profile tp, tl9000_cert_profile tcp where tcp.tlid=tp.tlid and tp.profile_status='active' and year(tcp.cert_end_date)>2019 and month(tcp.cert_end_date)=8 and tcp.tlid=7062";
 	public static final String CERTIFICATION_LOCATION = "select distinct tcpl.tlid as tlid, tcpl.address as street, \r\n"
 			+ "tcpl.city as city, \r\n" + "tcpl.state as state, \r\n" + "tcpl.zip as zip_code, \r\n"
 			+ "tcpl.country as country\r\n" + "from tl9000_cert_profile_locations tcpl \r\n" + "where tcpl.tlid=";
