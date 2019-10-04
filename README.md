@@ -1,2 +1,2 @@
 # custom-xml-from-sql
-Scipr that generate a custom nested XML querying multiple tables in MySQL
+Scipr that generates a custom nested XML querying multiple tables in MySQL
