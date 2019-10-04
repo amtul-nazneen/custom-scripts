@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cb_certs>
+	<certification>
+		<certificate_identity_number>UNIQUEID-CERT01</certificate_identity_number>
+		<certificate_number>20897-A01</certificate_number>
+		<certification_status>Active</certification_status>
+		<accreditation_status>Accredited </accreditation_status>
+		<certification_type>Management System</certification_type>
+		<certification_scope>Manufacturing, marketing and export of instruments, consumables and accessories for temperature, active oxygen, hydrogen, carbon measurements and sampling in ferrous and non-ferrous melts</certification_scope>
+		<certification_original_issue_date>20170203</certification_original_issue_date>
+		<certification_issue_date>20170203</certification_issue_date>
+		<certification_expiry_date>20170203</certification_expiry_date>
+		<certified_entity_name>Test Food And Logistics Inc.</certified_entity_name>
+		<certified_entity_trading_name></certified_entity_trading_name>
+		<certified_entity_english_name></certified_entity_english_name>
+		<certified_entity_email_address>info@testfood.com</certified_entity_email_address>
+		<certified_entity_key_contact>Mr Peter Smith</certified_entity_key_contact>
+		<certified_entity_phone>+1 4589 2793</certified_entity_phone>
+		<certified_entity_unique_id>UNIQUEID-COMPANY01</certified_entity_unique_id>
+		<certified_entity_street>Suite 100, #3601 E Algonquin Road</certified_entity_street>
+		<certified_entity_city>Rolling Meadows</certified_entity_city>
+		<certified_entity_state>Illinois</certified_entity_state>
+		<certified_entity_zip_code>60008</certified_entity_zip_code>
+		<certified_entity_country>United States</certified_entity_country>
+		<accreditation_body_name>Test Accreditation Body</accreditation_body_name>
+		<accreditation_body_acronym>TAB</accreditation_body_acronym>
+		<certification_additional_sites>
+			<additional_site>
+				<street>505N, Sam Houston Pkwy East, Suite # 682</street>
+				<city>Houston</city>
+				<state>Texas</state>
+				<zip_code>77060</zip_code>
+				<country>United States</country>
+                <scope>Manufacturing, marketing and export of instruments, consumables and accessories for temperature, active oxygen, hydrogen, carbon measurements and sampling in ferrous and non-ferrous melts</scope>
+			</additional_site>
+			<additional_site>
+				<street>Suite 100, #3601 E Algonquin Road</street>
+				<city>Rolling Meadows</city>
+				<state>Illinois</state>
+				<zip_code>60008</zip_code>
+				<country>United States</country>
+				<scope>Design, Development, Manufacture and Services of Chemical Products, Detergent and Softener</scope>
+			</additional_site>
+		</certification_additional_sites>
+		<certification_standard_and_scheme>
+			<standard_and_scheme>
+				<scheme_name>Quality Management Systems Scheme</scheme_name>
+				<standard_name>AS\NZS ISO 9001:2008</standard_name>
+			</standard_and_scheme>
+			<standard_and_scheme>
+				<scheme_name>Occupational Health and Safety Management System scheme</scheme_name>
+				<standard_name>OHSAS 18001:2007</standard_name>
+			</standard_and_scheme>
+		</certification_standard_and_scheme>
+	</certification>
+	<certification>
+		<certificate_identity_number>UNIQUEID-CERT02</certificate_identity_number>
+		<certificate_number>60119-A01</certificate_number>
+		<certification_status>Active</certification_status>
+		<accreditation_status>Accredited </accreditation_status>
+		<certification_type>Management System</certification_type>
+		<certification_scope>Design, Development, Manufacture and Services of Chemical Products, Detergent and Softener</certification_scope>
+		<certification_original_issue_date>20180203</certification_original_issue_date>
+		<certification_issue_date>20180203</certification_issue_date>
+		<certification_expiry_date>20180203</certification_expiry_date>
+		<certified_entity_name>Reliable Logistics Services Inc.</certified_entity_name>
+		<certified_entity_trading_name></certified_entity_trading_name>
+		<certified_entity_english_name></certified_entity_english_name>
+		<certified_entity_email_address>iafcert@reliable.com</certified_entity_email_address>
+		<certified_entity_key_contact>Mr John Song</certified_entity_key_contact>
+		<certified_entity_phone>+1 4589 0000</certified_entity_phone>
+		<certified_entity_unique_id>UNIQUEID-COMPANY02</certified_entity_unique_id>
+		<certified_entity_street>505N, Sam Houston Pkwy East, Suite # 682</certified_entity_street>
+		<certified_entity_city>Houston</certified_entity_city>
+		<certified_entity_state>Texas</certified_entity_state>
+		<certified_entity_zip_code>77060</certified_entity_zip_code>
+		<certified_entity_country>United States</certified_entity_country>
+		<accreditation_body_name>Test Accreditation Body</accreditation_body_name>
+		<accreditation_body_acronym>TAB</accreditation_body_acronym>
+		<certification_additional_sites>
+			<additional_site>
+				<street>505N, Sam Houston Pkwy East, Suite # 682</street>
+				<city>Houston</city>
+				<state>Texas</state>
+				<zip_code>77060</zip_code>
+				<country>United States</country>
+				<scope>Manufacturing, marketing and export of instruments, consumables and accessories for temperature, active oxygen, hydrogen, carbon measurements and sampling in ferrous and non-ferrous melts</scope>
+			</additional_site>
+			<additional_site>
+				<street>Suite 100, #3601 E Algonquin Road</street>
+				<city>Rolling Meadows</city>
+				<state>Illinois</state>
+				<zip_code>60008</zip_code>
+				<country>United States</country>
+				<scope>Design, Development, Manufacture and Services of Chemical Products, Detergent and Softener</scope>
+			</additional_site>
+		</certification_additional_sites>
+		<certification_standard_and_scheme>
+			<standard_and_scheme>
+				<scheme_name>Quality Management Systems Scheme</scheme_name>
+				<standard_name>AS\NZS ISO 9001:2008</standard_name>
+			</standard_and_scheme>
+			<standard_and_scheme>
+				<scheme_name>Occupational Health and Safety Management System scheme</scheme_name>
+				<standard_name>OHSAS 18001:2007</standard_name>
+			</standard_and_scheme>
+		</certification_standard_and_scheme>
+	</certification>
+</cb_certs>
