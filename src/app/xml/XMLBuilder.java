@@ -202,10 +202,6 @@ public class XMLBuilder {
 			StreamResult streamResult = new StreamResult(new File(Constants.XML_FILEPATH));
 			transformer.transform(domSource, streamResult);
 
-			/* To output to the console */
-			/// StreamResult consoleResult = new StreamResult(System.out);
-			// transformer.transform(domSource, consoleResult);
-
 		} catch (ParserConfigurationException pce) {
 			pce.printStackTrace();
 		} catch (TransformerException tfe) {
