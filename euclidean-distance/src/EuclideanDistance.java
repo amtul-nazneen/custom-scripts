@@ -47,9 +47,4 @@ public class EuclideanDistance {
 		return Double.parseDouble(result);
 	}
 	
-	public static void main2(String[] args) {
-	System.out.println(getPoint(0, "(20,10)"));
-	System.out.println(getPoint(1, "(20,10)"));
-	}
-	
 }
